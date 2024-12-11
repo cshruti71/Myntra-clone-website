@@ -13,6 +13,18 @@ A front-end web application replicating the user interface and basic functionali
 - **CSS3**: Styling with Flexbox, Grid, and media queries.
 - **JavaScript**: Interactivity and client-side logic.
 
+## Screenshots
+### Home Page
+![Home Page](images/web%20images/home%20page.png)
+
+### Product Page
+![Product Page](images/web%20images/product%20page.png)
+
+### Cart Page
+![Cart Page](images/web%20images/cart%20page.png)
+
+You can open the **Product Page** by clicking on the banner image on the **Home Page**.
+
 ## Purpose
 This project demonstrates front-end development skills by creating a UI inspired by Myntra’s e-commerce platform.
 
@@ -20,5 +32,4 @@ This project demonstrates front-end development skills by creating a UI inspired
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/myntra-clone.git
-
 
